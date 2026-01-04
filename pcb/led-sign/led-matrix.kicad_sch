@@ -14102,7 +14102,7 @@
 	)
 	(sheet
 		(at 381 157.48)
-		(size 12.7 12.065)
+		(size 12.7 40.005)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -14126,7 +14126,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 381 170.1296 0)
+			(at 381 198.0696 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14138,56 +14138,6 @@
 			(project "led-sign"
 				(path "/e425a5d8-1381-45ac-b0d7-4099e608a776"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 381 184.15)
-		(size 12.7 10.16)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "fc645fb7-4c6b-4711-b1b1-fecb3b93d406")
-		(property "Sheetname" "LED Drivers"
-			(at 381 183.4384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "led_drivers.kicad_sch"
-			(at 381 194.8946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Field2" ""
-			(at 381 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "led-sign"
-				(path "/e425a5d8-1381-45ac-b0d7-4099e608a776"
-					(page "3")
 				)
 			)
 		)

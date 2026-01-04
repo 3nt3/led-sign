@@ -617,10 +617,6 @@
     [
       "d6b98f7f-5be7-41e8-beb9-8becae57fefd",
       "LED Matrix"
-    ],
-    [
-      "fc645fb7-4c6b-4711-b1b1-fecb3b93d406",
-      "LED Drivers"
     ]
   ],
   "text_variables": {}
